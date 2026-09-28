@@ -1,8 +1,8 @@
 import java.io.FileWriter;
 import java.io.IOException;
-import java. util.Scanner;
-public class FileWriteSignle{
-    public static void main(String args)
+import java.util.Scanner;
+public class FileWriteSingle{
+    public static void main(String args[])
     {
         Scanner sc = new Scanner(System.in);
         String value = sc.nextLine();
